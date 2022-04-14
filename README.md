@@ -2,6 +2,6 @@
 mvc_patternを使用したサンプルアプリ
 
 
-###memo
+### memo
 
 https://medium.flutterdevs.com/design-patterns-in-flutter-part-1-c32a3ddb00e2
